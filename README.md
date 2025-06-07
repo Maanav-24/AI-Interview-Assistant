@@ -20,9 +20,9 @@ Backend: Python, Flask
 
 Frontend: HTML, CSS, JavaScript
 
-AI & NLP: Hugging Face Transformers (LLMs), Sentence Transformers, spaCy
+AI & NLP: Hugging Face Transformers (LLMs), Sentence Transformers, spaCy, torch
 
-Resume Parsing: PDF parsers + NLP
+Resume Parsing: PDF parsers + NLP, pdf2image
 
 Feedback System: Custom evaluation logic with semantic similarity & sentiment analysis
 
